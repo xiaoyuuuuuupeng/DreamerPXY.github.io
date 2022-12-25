@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/12/24/Grpc-in-action/</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2022/12/24/My-New-Post/</loc>
     
     <lastmod>2022-12-24</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-12-24</lastmod>
+    <lastmod>2022-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +66,7 @@
   
   <url>
     <loc>http://example.com/tags/%E6%B5%8B%E8%AF%95-%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-12-24</lastmod>
+    <lastmod>2022-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
