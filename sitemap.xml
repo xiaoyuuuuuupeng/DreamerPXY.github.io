@@ -2,7 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/12/24/Grpc-in-action/</loc>
+    <loc>http://dreamerpxy.github.io/2022/12/24/Grpc-in-action/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E5%85%AD-%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E4%BA%94-%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E5%9B%9B-metadata/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E4%B8%89-%E6%8B%A6%E6%88%AA%E5%99%A8/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E4%BA%8C-stream/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/25/Grpc-in-action-%E4%B8%80-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</loc>
+    
+    <lastmod>2022-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/2022/12/24/My-New-Post/</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -11,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/12/24/My-New-Post/</loc>
+    <loc>http://dreamerpxy.github.io/link/index.html</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -20,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://dreamerpxy.github.io/categories/index.html</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -29,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://dreamerpxy.github.io/tags/index.html</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -38,16 +101,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
-    
-    <lastmod>2022-12-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/12/24/hello-world/</loc>
+    <loc>http://dreamerpxy.github.io/2022/12/24/hello-world/</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -57,7 +111,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://dreamerpxy.github.io/</loc>
     <lastmod>2022-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,7 +119,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%B5%8B%E8%AF%95-%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://dreamerpxy.github.io/tags/%E6%B5%8B%E8%AF%95-%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamerpxy.github.io/tags/Grpc-java-go/</loc>
     <lastmod>2022-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
